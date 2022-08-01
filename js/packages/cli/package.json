@@ -54,7 +54,7 @@
     "lodash": "^4.17.21",
     "loglevel": "^1.7.1",
     "mime": "^3.0.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.2.10",
     "weighted": "^0.3.0",
     "@metaplex-foundation/mpl-token-metadata": "1.2.5"
   },
