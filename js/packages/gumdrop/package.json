@@ -22,7 +22,7 @@
     "@solana/wallet-adapter-base": "0.4.1",
     "@solana/wallet-adapter-react": "^0.7.1",
     "@solana/wallet-adapter-wallets": "^0.6.1",
-    "@solana/web3.js": "^1.24.1",
+    "@solana/web3.js": "^1.91.3",
     "antd": "^4.16.12",
     "bignumber.js": "^9.0.1",
     "bn.js": "^5.1.3",
