@@ -32,7 +32,7 @@
   "dependencies": {
     "@metaplex/arweave-cost": "^1.0.4",
     "@project-serum/serum": "^0.13.52",
-    "@solana/spl-token": "0.1.6",
+    "@solana/spl-token": "0.3.2",
     "@solana/spl-token-registry": "0.2.202",
     "@solana/wallet-adapter-base": "^0.4.1",
     "@solana/wallet-adapter-react": "^0.7.2",
