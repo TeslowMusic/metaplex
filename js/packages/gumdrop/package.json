@@ -5,7 +5,7 @@
   "homepage": "https://lwus.github.io/metaplex/",
   "dependencies": {
     "@aws-sdk/client-sesv2": "^3.38.0",
-    "@aws-sdk/client-sns": "^3.40.0",
+    "@aws-sdk/client-sns": "^3.529.0",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
     "@fontsource/open-sans": "^4.5.0",
