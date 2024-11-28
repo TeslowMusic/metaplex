@@ -13,7 +13,7 @@
     "@solana/wallet-adapter-material-ui": "^0.13.1",
     "@solana/wallet-adapter-react": "^0.13.1",
     "@solana/wallet-adapter-react-ui": "^0.6.1",
-    "@solana/wallet-adapter-wallets": "^0.11.3",
+    "@solana/wallet-adapter-wallets": "^0.19.21",
     "@solana/web3.js": "^1.33.0",
     "mime": "^3.0.0",
     "react": "^17.0.2",
