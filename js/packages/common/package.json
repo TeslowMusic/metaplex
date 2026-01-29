@@ -46,7 +46,7 @@
     "buffer-layout": "^1.2.0",
     "eventemitter3": "^4.0.7",
     "@metamask/jazzicon": "^2.0.0",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.23",
     "mime": "^3.0.0",
     "react": "17.0.2",
     "react-dom": "17.0.2",
